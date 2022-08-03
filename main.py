@@ -54,8 +54,8 @@ st.markdown("Analisis Polusi Udara di Jakarta Tahun 2014-2020. Author : Christop
 
 #input gambar headline berita
 berita = Image.open('berita.jpeg')
-berita1 = Image.open('berita1.jpg')
-berita2 = Image.open('berita2.jpg')
+berita1 = Image.open('berita1.JPG')
+berita2 = Image.open('berita2.JPG')
 berita3 = Image.open('berita3.png')
 
 img1, img2,img3 = st.columns([1.2,1.5,1.5])

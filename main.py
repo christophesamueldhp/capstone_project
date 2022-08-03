@@ -50,7 +50,7 @@ dfcat5 = pd.read_csv("categ5.csv")
 gabunganchat = pd.read_csv("categg.csv")
 
 st.title("COVID MEREDA, TETAP WAJIB PAKAI MASKER???")
-st.markdown("Analisis Polusi Udara di Jakarta Tahun 2014-2020. Author : Christophe Samuel Diaz Harnanto Putra")
+st.markdown("Analisis Polusi Udara di DKI Jakarta. Author : Christophe Samuel Diaz Harnanto Putra")
 
 #input gambar headline berita
 berita = Image.open('berita.jpeg')
